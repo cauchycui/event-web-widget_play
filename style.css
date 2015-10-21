@@ -1,0 +1,26 @@
+eventTitle{
+	font-family:  "Arial Black", Gadget, sans-serif;
+	color: blue;
+}
+
+#widget-container{
+	
+	background-color: #fff;
+	margin: 15px auto;
+	overflow: hidden;
+	width: 300px;
+    border-color: red;
+    border-left-style: dotted;
+	
+	position: fixed;
+	left:50px;
+
+}
+
+div#widget-container >p {
+	position: relative;
+	left:20px;
+	
+}
+
+
